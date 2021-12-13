@@ -39,7 +39,7 @@
  */
 DEFPY_YANG_NOSH (router_rip,
        router_rip_cmd,
-       "router rip [vrf NAME]",
+       "router Routing inforamtion protocol [vrf NAME]",
        "Enable a routing process\n"
        "Routing Information Protocol (RIP)\n"
        VRF_CMD_HELP_STR)
